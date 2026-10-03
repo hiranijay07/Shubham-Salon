@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "139156833864",
+    "project_id": "shubhamsalon-67b18",
+    "storage_bucket": "shubhamsalon-67b18.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139156833864:android:848f6d57437715c47d3a7d",
+        "android_client_info": {
+          "package_name": "com.example.shubham_salon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs1x5fPQi1_aCyU2Mszy-FADgblRrZFcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
